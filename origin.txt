@@ -1,0 +1,12 @@
+Uri: https://forum.r-rp.ru/
+File Name: c:\Downloaded Web Sites\forum.r-rp.ru\index.htm
+Content Type: text/html
+
+Uri: https://forum.r-rp.ru/vddosw3data.js
+File Name: c:\Downloaded Web Sites\forum.r-rp.ru\vddosw3data.js
+Content Type: application/javascript
+
+Uri: https://forum.r-rp.ru/aes.min.js
+File Name: c:\Downloaded Web Sites\forum.r-rp.ru\aes.min.js
+Content Type: application/javascript
+
